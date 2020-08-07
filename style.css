@@ -25,7 +25,7 @@
 -------------------------------------------------------------------*/
 
 body {
-	--def: #ffffff; 	
+	--def: #fffff; 	
 	--inv: #009bb7;
     color: #999999;
     font-size: 14px;
@@ -641,7 +641,7 @@ xclip
 .section.colorsection p,
 .section.colorsection h3,
 .section.db h3 {
-    color: #ffffff;
+    color: gold;
 }
 
 
